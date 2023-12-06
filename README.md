@@ -32,5 +32,13 @@ Diabetes Dataset analysis
 15)Displays the matplotlib plot.
 
 ![image](https://github.com/sadhanasharma1/Diabetes-Dataset-analysis/assets/117315849/e24f0dd0-891f-4a58-a89e-76c221644608)
+# Example
+Lets say we have value of input 1,2,3 and corresponding output is 3,2,4
+So as per mathematical calculation Weight will be 0.5
+and intercept will be 2
+
+![image](https://github.com/sadhanasharma1/Diabetes-Dataset-analysis/assets/117315849/f99ac0f2-a2ad-4e6c-b34a-db0afc37a975)
+
+
 
 
